@@ -1,6 +1,6 @@
 # Biblioteca
 
-### Projeto em Java de uma biblioteca em memória possuindo as seguintes regras de negócio:
+### Projeto em Java de uma biblioteca que persiste dados em arquivos possuindo as seguintes regras de negócio:
 
 - Cadastra livro (id, titulo, autor).
 
